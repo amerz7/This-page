@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Curriculum
-description: &nbsp
+description: " "
 ---
 | [Homepage](./index.html) | [Curriculum](./curriculum.html)    | [Baby-geometri](./babygeometri.html) |
 

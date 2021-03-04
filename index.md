@@ -13,9 +13,11 @@ title: Homepage of Alice Merz
 
 alice.merz (at) phd.unipi.it
 
-<em>Low-dimensional topology and geometry</em>
-
-
+<ul>
+  <li><em>Geometric topology</em></li>
+  <li><em>Low-dimensional topology and geometry</em></li>
+  <li><em>Knot theory</em></li>
+</ul>
 
 
 

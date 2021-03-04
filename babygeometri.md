@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Baby-geometri
-description:
+description: Informal seminars on topology and geometry
 ---
 | [Homepage](./index.html) | [Curriculum](./curriculum.html)    | [Baby-geometri](./babygeometri.html) | 
 

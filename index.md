@@ -6,7 +6,7 @@ title: Homepage of Alice Merz
 | [Homepage](./index.html) | [Curriculum](./curriculum.html)    | [Baby-geometri](./babygeometri.html) | [Contacts](./contacts.html) |
 
 <img src="fotocv.jpeg" alt="me" width="200"/> <br>
-<i class='fas fa-camera'></i> <small> <a href="http://alice-graziano.com" target="_blank">  <small>Alice Graziano </small></a> 
+<i style='font-size:24px' class='fas'>&#xf030;</i> <small> <a href="http://alice-graziano.com" target="_blank">  <small>Alice Graziano </small></a> 
 
 
 

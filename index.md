@@ -3,4 +3,10 @@ layout: default
 title: Homepage of Alice Merz
 ---
 # Welcome to my homepage!
-[Baby-geometri](./babygeometri.html)
+| [Curriculum](./curriculum.html)    |
+|:-----------------------------------|
+|[Baby-geometri](./babygeometri.html)| 
+|:-----------------------------------|
+| [Contacts]   (./contacts.html)     |
+|:-----------------------------------|
+

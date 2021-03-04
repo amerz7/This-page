@@ -6,7 +6,7 @@ title: Homepage of Alice Merz
 | [Homepage](./index.html) | [Curriculum](./curriculum.html)    | [Baby-geometri](./babygeometri.html) | [Contacts](./contacts.html) |
 
 <img src="fotocv.jpeg" alt="me" width="200"/>
-Thanks to [Alice Graziano](http://alice-graziano.com) for this picture. 
+Thanks to <a href="http://alice-graziano.com" target="_blank"> Alice Graziano</a> for this picture. 
 
 
 

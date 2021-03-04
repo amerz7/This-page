@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Baby-geometri
+description:
 ---
 | [Homepage](./index.html) | [Curriculum](./curriculum.html)    | [Baby-geometri](./babygeometri.html) | 
 
